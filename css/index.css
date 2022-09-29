@@ -32,4 +32,12 @@ th {
     border-style: outset;
     display: block;
     alignment: center;
+    resize: none;
+}
+
+#buttonSave {
+    background-color: grey;
+    border-color: darkgrey;
+    border-radius: 5px;
+    padding: 10px;
 }
