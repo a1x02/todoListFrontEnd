@@ -1,0 +1,23 @@
+body {
+    background-image: url("../img/night_lake.jpeg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    background-attachment: fixed;
+}
+
+#todoHeader {
+    font-family: Gadugi;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+}
+
+#splitPage {
+    width: 100%;
+}
+
+th {
+    font-family: Gadugi;
+    color: whitesmoke;
+    text-align: center;
+}
