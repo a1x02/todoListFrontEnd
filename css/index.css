@@ -41,3 +41,7 @@ th {
     border-radius: 5px;
     padding: 10px;
 }
+
+#markDone {
+    width: 40px;
+}
